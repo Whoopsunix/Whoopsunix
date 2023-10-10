@@ -10,8 +10,9 @@
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whoopsunix&theme=github_dark)
 
-### 🎃 Visitors
+[//]: # (### 🎃 Visitors)
 
-![Visitor Count](https://profile-counter.glitch.me/Whoopsunix/count.svg)
+[//]: # ()
+[//]: # (![Visitor Count]&#40;https://profile-counter.glitch.me/Whoopsunix/count.svg&#41;)
 
 
