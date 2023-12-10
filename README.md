@@ -2,7 +2,7 @@
 
 👋 this is Whoopsunix
 
-🔥 working on Java vuls and readteam
+🔥 working on Java Researcher and Readteam
 
 🔗 [WIKI link](https://whoopsunix.com/)
 
