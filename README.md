@@ -8,20 +8,13 @@
 
 ## 🪜 Repositories
 
-### ☕️ Java
-
-| Project                                            | description                                                  | State                  |
-| -------------------------------------------------- | ------------------------------------------------------------ | ---------------------- |
-| [JavaRce](https://github.com/Whoopsunix/JavaRce)   | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 🍀 Active Development   |
-| [PPPVULNS](https://github.com/Whoopsunix/PPPVULNS) | Java CVE Vulnerability Environment                           | 🪴 Intermittent Updates |
-| [PPPRASP](https://github.com/Whoopsunix/PPPRASP)   | JavaRce complements project - use RASP to prevent vulnerabilities | 🍀 Active Development   |
-
-### 🛠️ tools
-
-| Project                                              | description                                     | State              |
-| ---------------------------------------------------- | ----------------------------------------------- | ------------------ |
-| ysoserial                                            | second develop based on ysoserial & JavaRce     | 🌱 Upcoming Release |
-| [nacosScan](https://github.com/Whoopsunix/nacosScan) | nacos api bypass & jwt bypass & get all configs | 🌲 Completed        |
+| Project                                              | description                                                  | State                  |
+| ---------------------------------------------------- | ------------------------------------------------------------ | ---------------------- |
+| [JavaRce](https://github.com/Whoopsunix/JavaRce)     | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 🍀 Active Development   |
+| [PPPYSO](https://github.com/Whoopsunix/PPPYSO)       | Java Deserialization Exploit \| MemShell \| RceEcho \| Class Load \| File Write | 🌱 In Progress          |
+| [PPPRASP](https://github.com/Whoopsunix/PPPRASP)     | JavaRce complements project - use RASP to prevent vulnerabilities | 🍀 Active Development   |
+| [PPPVULNS](https://github.com/Whoopsunix/PPPVULNS)   | Java CVE Vulnerability Environment                           | 🪴 Intermittent Updates |
+| [nacosScan](https://github.com/Whoopsunix/nacosScan) | nacos api bypass & jwt bypass & get all configs              | 🌲 Completed            |
 
 ## 🚩 Status
 
