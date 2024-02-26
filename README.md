@@ -1,8 +1,8 @@
 ## Welcome to my page
 
-👋 this is Whoopsunix
+👋 This is Whoopsunix (ATT&DEF)
 
-🔥 working on Java Researcher and Readteam
+🔥 Working on Java security research, focusing on the products in DevSecOps and SDLC (RASP, IAST, DAST, SAST, SCA)
 
 🔗 [WIKI link](https://whoopsunix.com/)
 
