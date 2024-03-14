@@ -8,13 +8,15 @@
 
 ## 🪜 Repositories
 
-| Project                                              | description                                                  | State                  |
-| ---------------------------------------------------- | ------------------------------------------------------------ | ---------------------- |
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
+
+| Project                                              | description                                                                         | State                   |
+|------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------|
 | [JavaRce](https://github.com/Whoopsunix/JavaRce)     | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 🍀 Active Development   |
-| [PPPYSO](https://github.com/Whoopsunix/PPPYSO)       | Java Deserialization Exploit \| MemShell \| RceEcho \| Class Load \| File Write | 🌱 In Progress          |
-| [PPPRASP](https://github.com/Whoopsunix/PPPRASP)     | JavaRce complements project - use RASP to prevent vulnerabilities | 🍀 Active Development   |
-| [PPPVULNS](https://github.com/Whoopsunix/PPPVULNS)   | Java CVE Vulnerability Environment                           | 🪴 Intermittent Updates |
-| [nacosScan](https://github.com/Whoopsunix/nacosScan) | nacos api bypass & jwt bypass & get all configs              | 🌲 Completed            |
+| [PPPYSO](https://github.com/Whoopsunix/PPPYSO)       | Java Deserialization Exploit \| MemShell \| RceEcho \| Class Load \| File Write     | 🌱 In Progress          |
+| [PPPRASP](https://github.com/Whoopsunix/PPPRASP)     | JavaRce complements project - use RASP to prevent vulnerabilities                   | 🍀 Active Development   |
+| [PPPVULNS](https://github.com/Whoopsunix/PPPVULNS)   | Java CVE Vulnerability Environment                                                  | 🪴 Intermittent Updates |
+| [nacosScan](https://github.com/Whoopsunix/nacosScan) | nacos api bypass & jwt bypass & get all configs                                     | 🌲 Completed            |
 
 ## 🚩 Status
 
@@ -25,5 +27,6 @@
 [//]: # (### 🎃 Visitors)
 
 [//]: #
+
 [//]: # (![Visitor Count]&#40;https://profile-counter.glitch.me/Whoopsunix/count.svg&#41;)
 
