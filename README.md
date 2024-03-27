@@ -1,8 +1,6 @@
-## Welcome to my page
+## 👋 This is Whoopsunix
 
-👋 This is Whoopsunix (ATT&DEF)
-
-🔥 Working on Java security research, focusing on the products in DevSecOps and SDLC (RASP, IAST, DAST, SAST, SCA)
+🔥 I'm a DevOps ATT&DEF, focusing on security issues related to DevOps, most about Java, and transforming the research into security products such as RASP, IAST, DAST, SAST, SCA, SPM, etc.
 
 🔗 [WIKI link](https://whoopsunix.com/)
 
