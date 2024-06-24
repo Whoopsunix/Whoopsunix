@@ -4,7 +4,7 @@
   <img align='right' width="50%" src="https://github-readme-stats.vercel.app/api?username=Whoopsunix&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 
-🔥 I'm a DevOps ATT&DEF, focusing on security issues related to DevOps, most about Java, and transforming the research into security products such as RASP, IAST, DAST, SAST, SCA, SPM, etc. [WIKI link](https://whoopsunix.com/)
+🔥 I'm a DevOps ATT&DEF, focusing on security issues related to DevOps, and transforming the research into security products such as SCA, RASP, IAST, SAST, DAST, SPM, etc. [WIKI link](https://whoopsunix.com/)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
