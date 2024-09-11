@@ -14,10 +14,6 @@
 
 🔥 I'm a DevOps ATT&DEF, Open-Sourcerer, focusing on security issues related to DevOps, and transforming the research into security products such as SCA, RASP, IAST, SAST, DAST, SPM, etc.
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whoopsunix&show_icons=true&theme=github_dark&hide_border=true" />
-</a>
-
 ## 🪜 Repositories
 
 | Project                                                      | description                                                  | State                  |
