@@ -1,12 +1,21 @@
 ## 👋 This is Whoopsunix
 
+<div style="display: flex; align-items: center;">  
+  <img src="https://img.shields.io/badge/Focus-DevOps%20ATT&DEF-8A2BE2" alt="Focus Badge" />  
+  <img src="https://img.shields.io/badge/Now-SCA%20RASP-8A2BE2" alt="Focus Badge" />
+  <a href="https://whoopsunix.com/" target="_blank" style="margin-left: 10px;">  
+    <img src="https://img.shields.io/badge/WIKI-whoopsunix.com-blue" alt="Focus Badge" />  
+  </a>
+  <img src="https://img.shields.io/badge/Find%20Me-whoopsunix@gmail.com-blue" alt="Focus Badge" />  
+</div> 
+
+---
+
+🔥 I'm a DevOps ATT&DEF, Open-Sourcerer, focusing on security issues related to DevOps, and transforming the research into security products such as SCA, RASP, IAST, SAST, DAST, SPM, etc.
+
 <a href="#">
-  <img align='right' width="50%" src="https://github-readme-stats.vercel.app/api?username=Whoopsunix&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Whoopsunix&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
-
-🔥 I'm a DevOps ATT&DEF, Open-Sourcerer, focusing on security issues related to DevOps, and transforming the research into security products such as SCA, RASP, IAST, SAST, DAST, SPM, etc. [WIKI link](https://whoopsunix.com/)
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ## 🪜 Repositories
 
