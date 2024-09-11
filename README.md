@@ -3,10 +3,11 @@
 <div style="display: flex; align-items: center;">  
   <img src="https://img.shields.io/badge/Focus-DevOps%20ATT&DEF-8A2BE2" alt="Focus Badge" />  
   <img src="https://img.shields.io/badge/Now-SCA%20RASP-8A2BE2" alt="Focus Badge" />
+  <img src="https://img.shields.io/github/stars/Whoopsunix?color=%231890FF&style=flat-square" alt="Stars">
   <a href="https://whoopsunix.com/" target="_blank" style="margin-left: 10px;">  
     <img src="https://img.shields.io/badge/WIKI-whoopsunix.com-blue" alt="Focus Badge" />  
   </a>
-  <img src="https://img.shields.io/badge/Find%20Me-whoopsunix@gmail.com-blue" alt="Focus Badge" />  
+  <img src="https://img.shields.io/badge/Find%20Me-whoopsunix@gmail.com-blue" alt="Focus Badge" />
 </div> 
 
 ---
